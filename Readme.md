@@ -4,10 +4,10 @@ MUSIC STREAMING WEBSITE
 Functionality:
 
 1. Login/ Signup.
-2. Search for favourite tracks, artists, albums etc.
+2. Search for favourite movies, music, artists.
 3. Create and customize playlists.
 4. Control the music with usual controls such as play, pause, skip, shuffle, repeat etc.
-5. Adjust volume using volume bar.
+5. Discover a wide range of movies.
 6. Update user details / Logout.
 
 
@@ -21,6 +21,4 @@ Languages/Skills used:
 7. jQuery
 8. JSON
 
-
-
-Developed by: Manu Arora and Yash Saluja
+Developed by: Parinaz Irani & Sneha Chaudhary
